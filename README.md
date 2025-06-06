@@ -255,7 +255,7 @@ The GUI is built with Tkinter. Style constants and layout parameters live in `st
 
 ## Contact
 
-1. **Github Issues:**
+1. **Github Issues:** https://github.com/cjgeo22/AD_masking_tool/issues
 
 2. **Email:** lgeorge@coastal.edu
 
